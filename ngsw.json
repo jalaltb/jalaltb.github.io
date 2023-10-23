@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1698057069025,
+  "timestamp": 1698057951597,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/124.48fbf57df7a80597.js",
         "/favicon.ico",
         "/index.html",
-        "/main.b9a2b3842a823adc.js",
+        "/main.2571f0a70ec8011a.js",
         "/manifest.webmanifest",
         "/polyfills.2395700b734e02d7.js",
         "/runtime.bac8d4daa7376936.js",
@@ -59,9 +59,9 @@
     "/assets/poems/poemsList.json": "8325ab787d7b66f2cce41af8801712ee72860f20",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.59322316b3fd6063.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
-    "/index.html": "aaac40a17fc11a88f90f556f90af6afdc5f5e552",
+    "/index.html": "c53c40a7246a55ebc811b295bfa9e9be87fc43ba",
     "/iransansxv.5610161264980043.woff": "fd7e20a95cdb2a725b2d2238f979e88967993af6",
-    "/main.b9a2b3842a823adc.js": "c68f52e6f97eb032f68019d73a3e7aa0a238278e",
+    "/main.2571f0a70ec8011a.js": "9602612da4ec1b636dc41b9cb78bd1c04ddd4658",
     "/manifest.webmanifest": "1dd332d259dc4f955f6529488b9d934cf676d425",
     "/polyfills.2395700b734e02d7.js": "b8a52049cee59ad9123bd09869a80b863767cdc0",
     "/runtime.bac8d4daa7376936.js": "69d432cc21e1573cb684fe6141b8c0e69dab2fb1",
