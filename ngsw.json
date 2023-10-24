@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1698062460031,
+  "timestamp": 1698144739351,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/124.3e597ef39cd1b712.js",
         "/favicon.ico",
         "/index.html",
-        "/main.1f788abd06a6d4ce.js",
+        "/main.13c82c37e0a1dd7b.js",
         "/manifest.webmanifest",
         "/polyfills.2395700b734e02d7.js",
         "/runtime.c76bd04faffe92fd.js",
@@ -58,12 +58,12 @@
     "/assets/icons/icon-512x512.png": "a20d4c27c2578df9cc0664a1a5e7e027d7e88859",
     "/assets/icons/icon.png": "d345b73b2bb97600fd8d290f2fde9064517defb0",
     "/assets/icons/logo.svg": "c31412cfc1ede8d82e4762a588d5738c63e1b783",
-    "/assets/poems/poemsList.json": "f4b0ed9bd15a2c5a3b3f50b726aaf120f919519b",
+    "/assets/poems/poemsList.json": "a9f9dea91fd300f0d054faa9df93341fffc824e7",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.59322316b3fd6063.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
-    "/index.html": "7bdb54acc461540aea8ad80a8d1fcc3a21a73d0a",
+    "/index.html": "9a043ad2779dccebf572b7da6886a56bd57436d2",
     "/iransansxv.5610161264980043.woff": "fd7e20a95cdb2a725b2d2238f979e88967993af6",
-    "/main.1f788abd06a6d4ce.js": "c83361c4560bec9717d705b9d3dac4e2b0ffd72e",
+    "/main.13c82c37e0a1dd7b.js": "efd4f12451d4e82b1c4817bcee744d0095f81b15",
     "/manifest.webmanifest": "1dd332d259dc4f955f6529488b9d934cf676d425",
     "/polyfills.2395700b734e02d7.js": "b8a52049cee59ad9123bd09869a80b863767cdc0",
     "/runtime.c76bd04faffe92fd.js": "0cda1cbe02cce241135a9851fefe6b9c97922ae8",
