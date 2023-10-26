@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1698257808322,
+  "timestamp": 1698360618587,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,15 +11,16 @@
         "ignoreVary": true
       },
       "urls": [
-        "/124.65209633f34af723.js",
-        "/687.7d6450be6ffb92b7.js",
+        "/124.eb735b1771a6ceda.js",
+        "/687.1fa26d30ab56b7d2.js",
+        "/common.f3e6f0aaa8cda52d.js",
         "/favicon.ico",
         "/index.html",
-        "/main.7dc85546827bc5d9.js",
+        "/main.79bcc21237d0d627.js",
         "/manifest.webmanifest",
         "/polyfills.2395700b734e02d7.js",
-        "/runtime.81063fdd6b5c0c17.js",
-        "/styles.4b895ca2a4a0326f.css"
+        "/runtime.432273ed4ad4cb46.js",
+        "/styles.ac7cfc07c6b83606.css"
       ],
       "patterns": []
     },
@@ -31,17 +32,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/fonts/IRANSansXV.woff",
-        "/assets/fonts/IRANSansXV.woff2",
-        "/assets/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2",
+        "/assets/IRANSansXV.woff",
         "/assets/icons/favicon.ico",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-192x192.png",
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon.png",
         "/assets/icons/logo.svg",
-        "/assets/poems/poemsList.json",
-        "/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.59322316b3fd6063.woff2",
         "/iransansxv.5610161264980043.woff"
       ],
       "patterns": []
@@ -49,27 +46,24 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/124.65209633f34af723.js": "132103563d0a82807a7c2444532c0e9c2397df84",
-    "/687.7d6450be6ffb92b7.js": "94fa0280d31c777764e70db9ca0b25c12cf7db83",
-    "/assets/fonts/IRANSansXV.woff": "fd7e20a95cdb2a725b2d2238f979e88967993af6",
-    "/assets/fonts/IRANSansXV.woff2": "86784ed7a905cd319439735d54c265005b2ec33a",
-    "/assets/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
+    "/124.eb735b1771a6ceda.js": "05efa061d70e0d7264770278618d5d89bb69ce0f",
+    "/687.1fa26d30ab56b7d2.js": "7d14fcbae552510d9423c8326f82609aca98b3c0",
+    "/assets/IRANSansXV.woff": "fd7e20a95cdb2a725b2d2238f979e88967993af6",
     "/assets/icons/favicon.ico": "d3031ac93686ac4f214e769b849da30765ad4bdf",
     "/assets/icons/icon-144x144.png": "ef3b6f6febeb2255e6e4996fba549eadc5ff6b20",
     "/assets/icons/icon-192x192.png": "ef3b6f6febeb2255e6e4996fba549eadc5ff6b20",
     "/assets/icons/icon-512x512.png": "a20d4c27c2578df9cc0664a1a5e7e027d7e88859",
     "/assets/icons/icon.png": "d345b73b2bb97600fd8d290f2fde9064517defb0",
     "/assets/icons/logo.svg": "c31412cfc1ede8d82e4762a588d5738c63e1b783",
-    "/assets/poems/poemsList.json": "a9f9dea91fd300f0d054faa9df93341fffc824e7",
+    "/common.f3e6f0aaa8cda52d.js": "f5ee77e985e9f621c636f940973d7e9743f1e766",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.59322316b3fd6063.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
-    "/index.html": "3b1a57e546fd1ed29d57a26339e26b8deeffe425",
+    "/index.html": "79ab487145ea7fe36da4da3a6d2ac9147c84a62f",
     "/iransansxv.5610161264980043.woff": "fd7e20a95cdb2a725b2d2238f979e88967993af6",
-    "/main.7dc85546827bc5d9.js": "20f5cb42093947a176b01aad178bca58e07361a9",
+    "/main.79bcc21237d0d627.js": "456c652c78c704c99c066f24f3622f360420c810",
     "/manifest.webmanifest": "1dd332d259dc4f955f6529488b9d934cf676d425",
     "/polyfills.2395700b734e02d7.js": "b8a52049cee59ad9123bd09869a80b863767cdc0",
-    "/runtime.81063fdd6b5c0c17.js": "e1ae5c5db994445a5fe17ee668e23234a0877ef9",
-    "/styles.4b895ca2a4a0326f.css": "a5e83840831f6ad8f872b7c4253a3d33241e06de"
+    "/runtime.432273ed4ad4cb46.js": "7de70a082ea09287f508eb06cf91e4578d5e6bce",
+    "/styles.ac7cfc07c6b83606.css": "a7c12c08ce405a91f76bde743ee1f7bf77d38651"
   },
   "navigationUrls": [
     {

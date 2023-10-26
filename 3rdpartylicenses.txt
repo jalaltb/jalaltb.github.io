@@ -32,9 +32,6 @@ MIT
 @angular/core
 MIT
 
-@angular/forms
-MIT
-
 @angular/material
 MIT
 The MIT License
@@ -67,9 +64,6 @@ MIT
 MIT
 
 @angular/service-worker
-MIT
-
-crisp-sdk-web
 MIT
 
 rxjs
