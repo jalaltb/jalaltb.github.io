@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1698848734500,
+  "timestamp": 1699609625878,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "/687.3d3d1d99d3038fec.js",
         "/favicon.ico",
         "/index.html",
-        "/main.eddaec7e668a63e8.js",
+        "/main.b84107ef0e74a189.js",
         "/manifest.webmanifest",
         "/polyfills.2395700b734e02d7.js",
         "/runtime.7317b4d8508cffa2.js",
@@ -59,9 +59,9 @@
     "/assets/icons/logo.svg": "c31412cfc1ede8d82e4762a588d5738c63e1b783",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.59322316b3fd6063.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
-    "/index.html": "b95a9971c49cca24240cd757dcc503684ea29048",
+    "/index.html": "4d19e5b5c85b40be6cb4d7fe475259da2ccd0db0",
     "/iransansxv.5610161264980043.woff": "fd7e20a95cdb2a725b2d2238f979e88967993af6",
-    "/main.eddaec7e668a63e8.js": "5f55825018f69d4f3c637101d316717608ee567e",
+    "/main.b84107ef0e74a189.js": "54e928e3a537dc09676991c0eb00dd711424a215",
     "/manifest.webmanifest": "1dd332d259dc4f955f6529488b9d934cf676d425",
     "/polyfills.2395700b734e02d7.js": "b8a52049cee59ad9123bd09869a80b863767cdc0",
     "/runtime.7317b4d8508cffa2.js": "69f320518a39c7143479d5668fe1ea19834ccc44",
