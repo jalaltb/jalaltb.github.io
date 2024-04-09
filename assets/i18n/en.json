@@ -1,0 +1,26 @@
+{
+  "app": {
+    "title": "Jalal Holding",
+    "slogan": "Live your dreams",
+    "copyright": "All rights reserved to Jalal Tabatabaei"
+  },
+
+  "nav": {
+    "home": "Home",
+    "business": "Businesses",
+    "resume": "Resume"
+  },
+
+  "more": "more info",
+
+  "home": {},
+
+  "business": {
+    "title": "Businesses",
+    "subtitle": "Our companies and activities"
+  },
+
+  "resume": {
+    "title": "Resume"
+  }
+}
